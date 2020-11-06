@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Disease-Protein%20Visualization/static/css/main.329c5168.chunk.css",
+    "main.js": "/Disease-Protein%20Visualization/static/js/main.68146c9d.chunk.js",
+    "main.js.map": "/Disease-Protein%20Visualization/static/js/main.68146c9d.chunk.js.map",
+    "runtime-main.js": "/Disease-Protein%20Visualization/static/js/runtime-main.6297108a.js",
+    "runtime-main.js.map": "/Disease-Protein%20Visualization/static/js/runtime-main.6297108a.js.map",
+    "static/css/2.242d8bb0.chunk.css": "/Disease-Protein%20Visualization/static/css/2.242d8bb0.chunk.css",
+    "static/js/2.5cb73cef.chunk.js": "/Disease-Protein%20Visualization/static/js/2.5cb73cef.chunk.js",
+    "static/js/2.5cb73cef.chunk.js.map": "/Disease-Protein%20Visualization/static/js/2.5cb73cef.chunk.js.map",
+    "index.html": "/Disease-Protein%20Visualization/index.html",
+    "precache-manifest.e3aac2039d929d1a68c163a61b5d8623.js": "/Disease-Protein%20Visualization/precache-manifest.e3aac2039d929d1a68c163a61b5d8623.js",
+    "service-worker.js": "/Disease-Protein%20Visualization/service-worker.js",
+    "static/css/2.242d8bb0.chunk.css.map": "/Disease-Protein%20Visualization/static/css/2.242d8bb0.chunk.css.map",
+    "static/css/main.329c5168.chunk.css.map": "/Disease-Protein%20Visualization/static/css/main.329c5168.chunk.css.map",
+    "static/js/2.5cb73cef.chunk.js.LICENSE.txt": "/Disease-Protein%20Visualization/static/js/2.5cb73cef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6297108a.js",
+    "static/css/2.242d8bb0.chunk.css",
+    "static/js/2.5cb73cef.chunk.js",
+    "static/css/main.329c5168.chunk.css",
+    "static/js/main.68146c9d.chunk.js"
+  ]
+}
